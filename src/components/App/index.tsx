@@ -1,6 +1,6 @@
 import React from "react";
-import LaunchList from "./components/LaunchList";
-import LaunchProfile from "./components/LaunchProfile";
+import LaunchList from "../LaunchList";
+import LaunchProfile from "../LaunchProfile";
 
 import "./App.css";
 
